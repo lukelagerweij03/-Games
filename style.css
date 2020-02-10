@@ -3,17 +3,27 @@ body{
 }
 header{
   background-color: red;
-  height: 200px;
+  height: 75px;
+  margin-bottom:25px;
 }
 article{
-  background-color: #add1b9
+  background-color: #add1b9;
   width:60vw;
   margin: 0 auto;
+  padding:15px;
 }
 nav{
   float:left;
-  width:20vw;
+  width:15vw;
   background-color: #e4dac5;
+  margin-top: -25px;
+}
+nav-2{
+  float:right;
+  width:15vw;
+  background-color: lime;
+  padding:5px;
+
 }
 
 footer{
