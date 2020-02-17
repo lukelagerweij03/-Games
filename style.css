@@ -27,6 +27,7 @@ nav-2{
   background-color: lime;
   padding:5px;
   margin-right: 10px;
+  padding-bottom: 165px;
    background-image: url(https://icopartners.com/newblog/wp-content/uploads/2017/01/northgard_gameplay_gif.gif)
 }
 nav-3{
@@ -36,6 +37,17 @@ nav-3{
   padding: 10px;
   margin-left: -200px;
   margin-top: -100px;
+
+}
+nav-4{
+  float:right;
+  width:13.5vw;
+  background-color:aqua;
+  padding:5px;
+  margin-right:-97px;
+  margin-top: 250px;
+  padding-bottom:180px;
+   background-image: url(https://icopartners.com/newblog/wp-content/uploads/2017/01/northgard_gameplay_gif.gif)
 
 }
 
