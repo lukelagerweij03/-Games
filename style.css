@@ -22,13 +22,16 @@ nav{
   margin-top: -25px;
 }
 nav-2{
-  float:right;
-  width:13.5vw;
-  background-color: lime;
-  padding:5px;
-  margin-right: 10px;
-  padding-bottom: 180px;
+  height: 200px;
+  display: block;
+  width:100%;
    background-image: url(https://icopartners.com/newblog/wp-content/uploads/2017/01/northgard_gameplay_gif.gif)
+}
+aside{
+  float:right;
+  width: 14vw;
+  height: 100vw;
+  display: block;
 }
 nav-3{
   float:left;
@@ -40,13 +43,11 @@ nav-3{
 
 }
 nav-4{
-  float:right;
-  width:13.5vw;
-  background-color:aqua;
-  padding:5px;
-  margin-right:-184.5px;
-  margin-top: 250px;
-  padding-bottom:180px;
+  width:100%;
+  display: block;
+  height: 130px;
+  background-size: cover;
+  background-position: center center;
    background-image: url(https://icopartners.com/newblog/wp-content/uploads/2017/01/northgard_gameplay_gif.gif)
 
 }
