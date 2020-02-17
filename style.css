@@ -1,12 +1,10 @@
 body{
   margin: 0;
-  background-image: url(
-https://i.gifer.com/76YS.gif
-  )
+  background-image: url(/img/achtergrond.gif);
 }
 header{
   background-color: red;
-  height: 75px;
+  height: 95px;
   margin-bottom:25px;
 }
 article{
@@ -37,8 +35,7 @@ aside{
 }
 nav-3{
   float:left;
-  width: 12.8vw;
-  background-color: blueviolet;
+  width: 13.55vw;
   padding: 10px;
   margin-top: -200px;
   height: 58px;
