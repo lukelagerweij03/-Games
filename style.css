@@ -1,5 +1,8 @@
 body{
   margin: 0;
+  background-image: url(
+https://images.squarespace-cdn.com/content/v1/596a0fa2bebafbf177669597/1562172017696-INJUVGKJ93F3L5KSRWMH/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTmoW6VMYd7DRFXOxjGuORbJVRIz_X6uKxhFE9bwG5-diIJ9kj42L3XbtP_RiBprpp_/loopLandLogo.gif
+  )
 }
 header{
   background-color: red;
@@ -30,7 +33,7 @@ nav-3{
   width: 15vw;
   background-color: blueviolet;
   padding: 10px;
-  margin-left: -170px;
+  margin-left: -200px;
   margin-top: -100px;
 
 }
