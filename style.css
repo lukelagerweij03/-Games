@@ -3,7 +3,7 @@ body{
   background-image: url(/img/achtergrond.gif);
 }
 header{
-  background-color: red;
+  background-color:rgb(29, 29, 114);
   height: 95px;
   margin-bottom:25px;
 }
