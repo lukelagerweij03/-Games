@@ -3,7 +3,7 @@ body{
   background-image: url(/img/achtergrond.gif);
 }
 header{
-  background-color:rgb(19, 19, 70);
+  background-color: #add1b9;
   height: 95px;
   margin-bottom:25px;
 }
@@ -16,7 +16,7 @@ article{
 nav{
   float:left;
   width:15vw;
-  background-color: #e4dac5;
+  background-color: #add1b9;
   margin-top: -25px;
 }
 nav-2{
