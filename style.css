@@ -53,7 +53,9 @@ nav-4{
    background-image: url(/img/reclame.gif);
 
 }
-
+nav-5{
+  display: block;
+}
 footer{
   background-color: mediumaquamarine;
   position:fixed;
