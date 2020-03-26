@@ -20,6 +20,12 @@ article{
 nav{ 
   background-color: #add1b9;
   margin-top: -25px;
+  
+  
+  
+}
+  
+  
 }
 @media (min-width: 600px) {
  nav{
@@ -69,7 +75,7 @@ nav-6{
   display: block;
 }
 footer{
-  background-color: mediumaquamarine;
+  background-color: #add1b9;
   position:fixed;
   bottom: 0px;
   width: 100%;
