@@ -7,18 +7,18 @@ body{
 
 
 header{
-  background-color: #add1b9;
+  background-color: rgb(248, 165, 165);
   height: 95px;
   margin-bottom:25px;
 }
 article{
-  background-color: #add1b9;
+  background-color: rgb(248, 165, 165);
   width:60vw;
   margin: 0 auto;
   padding:15px;
 }
 nav{ 
-  background-color: #add1b9;
+  background-color: rgb(248, 165, 165);
   margin-top: -25px;
   
   
@@ -75,7 +75,7 @@ nav-6{
   display: block;
 }
 footer{
-  background-color: #add1b9;
+  background-color:rgb(248, 165, 165);
   position:fixed;
   bottom: 0px;
   width: 100%;
