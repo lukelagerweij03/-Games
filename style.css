@@ -1,7 +1,11 @@
 body{
   margin: 0;
-  background-image: url(/img/achtergrond.gif);
+  background-image: url(/img/foto.jpg);
+  background-size: 6000px;
 }
+
+
+
 header{
   background-color: #add1b9;
   height: 95px;
@@ -13,12 +17,17 @@ article{
   margin: 0 auto;
   padding:15px;
 }
-nav{
-  float:left;
-  width:15vw;
+nav{ 
   background-color: #add1b9;
   margin-top: -25px;
 }
+@media (min-width: 600px) {
+ nav{
+    float:left;
+    width:15vw;
+ }
+}
+
 nav-2{
   height: 200px;
   display: block;
